@@ -38,3 +38,10 @@ Demonstrating the power of recursive thinking through various mathematical and s
 -   **Permutations:** Algorithms to generate all possible string arrangements and count permutation totals. ``
 -   **Factorials & Fibonacci:** Standard recursive implementations with input validation for negative or decimal values. ``
 -   **Exponentiation:** Recursive power function ($x^y$). ``
+
+### 4\. Mathematical Series & Patterns
+
+A collection of scripts solving specific series challenges, often found in competitive programming:
+
+-   **Triangular Numbers & Cube Series:** Recursive logic to calculate cumulative sums and cubic progressions. ``
+-   **Custom Progressions:** Implementations for specific series logic, such as $f(n) = f(n-1) + 4n + 1$. ``
