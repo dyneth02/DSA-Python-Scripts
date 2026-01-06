@@ -30,3 +30,11 @@ A comprehensive **Binary Search Tree (BST)** implementation featuring:
 -   **Dynamic Operations:** Insertion, search, and deletion (handling leaf, single-child, and two-child nodes). ``
 -   **Traversals:** In-Order, Pre-Order, and Post-Order traversal methods. ``
 -   **Tree Stats:** Methods to retrieve the root, minimum value, and maximum value within the structure. ``
+
+### 3\. Recursion & Combinatorics
+
+Demonstrating the power of recursive thinking through various mathematical and string manipulation problems:
+
+-   **Permutations:** Algorithms to generate all possible string arrangements and count permutation totals. ``
+-   **Factorials & Fibonacci:** Standard recursive implementations with input validation for negative or decimal values. ``
+-   **Exponentiation:** Recursive power function ($x^y$). ``
