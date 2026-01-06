@@ -45,3 +45,10 @@ A collection of scripts solving specific series challenges, often found in compe
 
 -   **Triangular Numbers & Cube Series:** Recursive logic to calculate cumulative sums and cubic progressions. ``
 -   **Custom Progressions:** Implementations for specific series logic, such as $f(n) = f(n-1) + 4n + 1$. ``
+
+🛠️ Technical Highlights
+------------------------
+
+-   **Input Validation:** Robust handling of edge cases (negative numbers, non-integers, and empty lists). ``
+-   **Object-Oriented Programming (OOP):** Use of classes and static methods for complex structures like BSTs. ``
+-   **Performance Metrics:** Inclusion of helper functions to calculate statistical data like **Median** and **Range** from sorted arrays. ``
