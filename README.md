@@ -22,3 +22,11 @@ I have implemented several classic sorting algorithms, providing a deep dive int
 -   **Insertion Sort:** Efficient for small datasets or nearly sorted arrays. ``
 -   **Merge Sort:** A robust **Divide and Conquer** implementation ensuring $O(n \log n)$ performance. ``
 -   **Quick Sort:** A high-performance partitioning algorithm using the Lomuto/Hoare-style logic. ``
+
+### 2\. Tree Structures (Binary Search Tree)
+
+A comprehensive **Binary Search Tree (BST)** implementation featuring:
+
+-   **Dynamic Operations:** Insertion, search, and deletion (handling leaf, single-child, and two-child nodes). ``
+-   **Traversals:** In-Order, Pre-Order, and Post-Order traversal methods. ``
+-   **Tree Stats:** Methods to retrieve the root, minimum value, and maximum value within the structure. ``
